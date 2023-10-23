@@ -1,0 +1,13 @@
+root 
+daemon 
+bin 
+sys 
+adm 
+uucp 
+nobody 
+lpd 
+lp 
+invscout 
+snapp 
+ipsec 
+sshd
